@@ -2,7 +2,7 @@
   "version": "0.0.1",
   "manifestVersion": "0.1.0",
   "name": "theme-dracula",
-  "description": "The Dracula theme",
+  "description": "Dracula theme",
   "author": {
     "name": "Lumb",
     "email": "lumb@cock.li",
@@ -15,7 +15,7 @@
   "url": "https://plugins.keeweb.info/plugins/theme-dracula",
   "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNBhJmBf72+QUJtvWdib7MRRiB14RV/KSSqmg1bktanUYR/TjuDUsiPKr3RzsxT982CmLrUr+D9YeLhsGnkcKBAxdDvFHmUY0OwwsGUnpd8TFCBGMFAGrcYWzxpelh+hUJUpt+eU+HbQRTInbrL9rdL5lZVlg379ytBUOdsbuDLsk7BeenTgT1vUwRkmHTNGQcQa0nGBAkGgKhRkcb21GimQn9wzKUAWNLjIHdCYKTqGBw0sdw9zBdpHt+B/xVuQmZWtzL/aj3dm2UDS5ELQVnENNiWsd+7Jvpzf+Pqm69EjUe8zzpWTSBZHZCXss8ZM/hG6idp23zev0Sw2k4qZCwIDAQAB",
   "theme": {
-    "name": "theme-dracula",
-    "title": "Dracula Theme"
+    "name": "dracula",
+    "title": "Dracula"
   }
 }
