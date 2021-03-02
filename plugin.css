@@ -1,0 +1,16 @@
+.th-theme-dracula {
+  --action-color: #ff79c6;
+  --background-color: #282a36;
+  --error-color: #ff5555;
+  --intermediate-background-color: #44475a;
+  --light-border-color: #44475a;
+  --medium-color: #50fa7b;
+  --muted-color: #50fa7b;
+  --base-border-color: #50fa7b;
+  --selected-on-secondary-item-color: #ff79c6;
+  --secondary-background-color: #282a36;
+  --text-color: #bd93f9;
+  --text-contrast-action-color: #bd93f9;
+  --form-box-shadow-color-focus: #ff79c6;
+  --form-box-shadow-color-focus-error: #ff5555;
+}

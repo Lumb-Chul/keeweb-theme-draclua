@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "theme-dracula",
+  "description": "The Dracula theme",
+  "author": {
+    "name": "Lumb",
+    "email": "lumb@cock.li",
+    "url": "https://github.com/Lumb-Chul"
+  },
+  "resources": {
+    "css": "JtbEyFg4kz0PhQE/Lj0OdDqK8hg8Xv9K9lV++1UuUTdFE9wmQTOLYZiFXFuw79/r/a3ew5R+L1NBAhcEFCGiEmZHX5cG5nQLhLGOcUt0PWLrzgC7nsMmnLM1V0VHmjxLuP/ouudUWPae4gR5Ocdaf38l7heEE7q4sICtxDT6/klW314MLx5WOr33PXXopN47qnVfEfmrYgI+3a+oM40UiensswAzSBaerBcpbKnTJdgRewUcB9bsBkAWYwAEaOWrJFl6Fdsr5pWz8R7ZtmU8peBTV/GsuGPCl8hs/itVpTEC8pbEWvnNgS86O0Nx4z+VtfNturULslY5LeTIMXuH3g=="
+  },
+  "license": "MIT",
+  "url": "https://plugins.keeweb.info/plugins/theme-dracula",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzNBhJmBf72+QUJtvWdib7MRRiB14RV/KSSqmg1bktanUYR/TjuDUsiPKr3RzsxT982CmLrUr+D9YeLhsGnkcKBAxdDvFHmUY0OwwsGUnpd8TFCBGMFAGrcYWzxpelh+hUJUpt+eU+HbQRTInbrL9rdL5lZVlg379ytBUOdsbuDLsk7BeenTgT1vUwRkmHTNGQcQa0nGBAkGgKhRkcb21GimQn9wzKUAWNLjIHdCYKTqGBw0sdw9zBdpHt+B/xVuQmZWtzL/aj3dm2UDS5ELQVnENNiWsd+7Jvpzf+Pqm69EjUe8zzpWTSBZHZCXss8ZM/hG6idp23zev0Sw2k4qZCwIDAQAB",
+  "theme": {
+    "name": "theme-dracula",
+    "title": "Dracula Theme"
+  }
+}
